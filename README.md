@@ -3,6 +3,8 @@
 
 Sentiment Analysis is the method involved in examining online work of writing to decide to profound tone they convey, whether they’re positive, neutral, or negative. It takes a gander at the emotion communicated in a text. It is generally used to break down client feedback, overview reactions, and item audits. Further developing deals and holding clients are the center business ob jectives. It includes predicting or examining the hidden data present in the text.
 
+Text classification with machine learning is generally significantly more precise than human-created rule frameworks, particularly on complex NLP grouping assignments. Additionally, classifiers with AI are more straightforward to keep up with and you can constantly label new guides to leam new undertakings. Probably the most famous text characterization calculations incorporate the Navies Baye, Support Vector Machines (SVM), Random Forest (RF), Logistic Regression, Decision Tree, K-Nearest Neighbor (KNN) and so on.
+
 ## Objective
 To carry out an algorithm for order of text into positive, neutral and negative. To introduce an alternate way to deal with dissect the learning algorithm. To quantify the adequacy of feature selection on the exhibition of opinion and to accomplish the state of-the-art.
 
