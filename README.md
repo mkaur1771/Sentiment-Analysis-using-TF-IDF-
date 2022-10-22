@@ -10,10 +10,12 @@ To carry out an algorithm for order of text into positive, neutral and negative.
 
 
 ## Experiment
-The dataset from Twitter US Airline Sentiment of 2015 is taken for the predictive analysis in this exploration work. The initial dataset covers 14,640 instances. Then it is labeled as 0, 1, and 2 as negative, neutral and positive respectively. From the dataset we get the total number of sentiments of tweets. In this 5 machine learning algorithms- 
+The dataset from Twitter US Airline Sentiment of 2015 is taken for the predictive analysis in this exploration work. The initial dataset covers 14,640 instances. Then it is labeled as 0, 1, and 2 as negative, neutral and positive respectively. From the dataset we get 9178 number of negative tweets, 3099 neutral tweets and 2363 positive tweets.
+
+In this 5 machine learning algorithms- 
 #### 1. Random Forest 
 #### 2. SVM 
 #### 3. Naive Bayes 
 #### 4. Decision Tree 
 #### 5. KNN 
-being compared with using Term Frequency- Inverse Document Frequency (TF-IDF).
+being compared with using Term Frequency- Inverse Document Frequency (TF-IDF).From 22,207 samples 10,986 features were extracted.
